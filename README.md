@@ -1,3 +1,3 @@
 # Todo Firebase
 
-Simpple Todo list using firebase realtime databse.
+Simple Todo list using firebase realtime databse.
